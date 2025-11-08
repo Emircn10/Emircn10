@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Emir Can 
 I'm student of Software Engineering.
 
-Skills: Python / Html 
+
 
 
 
